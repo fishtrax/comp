@@ -1,0 +1,23 @@
+{
+  "name": "@fishtrax/cookiebanner",
+  "version": "0.9.23",
+  "description": "fishtrax Component Library",
+  "main": "index.js",
+  "repository": "https://gitlab.fishtrax.com/tranzact/fishtrax-ui-libary",
+  "author": "Shawn Brinkman",
+  "license": "ISC",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "react-component"
+  ],
+  "dependencies": {
+    "@esri/react-arcgis": "^4.0.0",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "react-device-detect": "^1.7.5",
+    "react-inlinesvg": "^1.2.0"
+  }
+}

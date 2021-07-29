@@ -1,0 +1,25 @@
+#userDense {
+  transform: translate(14px, 9px) scale(1);
+}
+
+#userDense[data-shrink=true]{
+  transform: translate(14px, -6px) scale(0.75);
+}
+
+#passDense {
+  transform: translate(14px, 9px) scale(1);
+}
+
+#passDense[data-shrink=true]{
+  transform: translate(14px, -6px) scale(0.75);
+}
+
+@media only screen and (max-width: 353px) {
+  #optContain {
+    align-items: center;
+  }
+
+  #forgotSpt {
+    height: 20px;
+  }
+}
