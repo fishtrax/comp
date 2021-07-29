@@ -4,8 +4,8 @@
 
 # RUN
 
-yarn
+npm i
 
-yarn run build
+npm run build
 
-yarn run start:local
+npm run start:local
